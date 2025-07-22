@@ -1,8 +1,14 @@
 <div align="center">
-<img align="center" src=https://github.com/AI4Finance-Foundation/FinRL/blob/master/figs/FinRL_Tutorials.png>
+<img align="center" src="https://raw.githubusercontent.com/AI4Finance-Foundation/FinRL/master/figs/FinRL_Tutorials.png">
 </div>
 
-**Mission**: creating hundreds of user-friendly demos.
+## About This Project
+
+This repository provides a collection of hands-on tutorials for the **FinRL** ecosystem, a deep reinforcement learning (DRL) framework designed to automate trading in quantitative finance.
+
+**Mission**: To create hundreds of user-friendly demos that help users apply deep reinforcement learning to financial tasks.
+
+FinRL is a framework that provides a full pipeline for developing and testing DRL-based trading strategies. These tutorials are designed to guide you through the process, from basic introductions to advanced applications and practical implementations.
 
 Note that we provide tutorials for [FinRL-meta](https://github.com/AI4Finance-Foundation/FinRL-Meta/tree/master/tutorials) and [FinRL](https://github.com/AI4Finance-Foundation/FinRL/tree/master/tutorials).
 
@@ -34,3 +40,17 @@ Note that we provide tutorials for [FinRL-meta](https://github.com/AI4Finance-Fo
 
 ### **5-Others** 
 **other related notebooks**
+
+## Community and Contribution
+
+This is an open-source project that thrives on community contributions. We welcome you to get involved!
+
+*   **[Contribution Guidelines](./Contributing.md)**: Learn how to contribute, our guiding principles, and PR guidelines.
+*   **File an Issue**: If you see something, [say something](https://guides.github.com/features/issues/)!
+
+## Further Reading
+
+For those who want to dive deeper into the theory and research behind financial reinforcement learning, we maintain curated lists of resources:
+
+*   **[Awesome FinRL](./Awesome_FinRL.md)**: A curated list of awesome deep reinforcement learning strategies, tools, and resources for finance.
+*   **[FinRL Papers](./FinRL_papers.md)**: A list of academic papers from the AI4Finance community and the Columbia research team.
